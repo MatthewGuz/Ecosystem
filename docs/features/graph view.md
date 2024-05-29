@@ -35,7 +35,7 @@ Component.Graph({
     fontSize: 0.6, // what size should the node labels be?
     opacityScale: 1, // how quickly do we fade out the labels when zooming out?
     removeTags: [], // what tags to remove from the graph
-    showTags: true, // whether to show tags in the graph
+    showTags: false, // whether to show tags in the graph
   },
   globalGraph: {
     drag: true,

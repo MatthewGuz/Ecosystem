@@ -13,7 +13,7 @@
 + **Demo**: [Access Manager Plus Demo](https://demo.accessmanagerplus.com/AMPHome.html#/amp/ConnectionsView)
 ## Integraciones
 
-### Mateo Guzmán
+### ManageEngine
 
 + [[ServiceDesk Plus]]
 + [[ServiceDesk Plus Cloud]]

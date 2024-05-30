@@ -1,3 +1,4 @@
+import { drag } from "d3"
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
@@ -29,7 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph(showTags: false,),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],

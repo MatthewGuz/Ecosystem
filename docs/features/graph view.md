@@ -18,7 +18,7 @@ Additionally, similar to how browsers highlight visited links a different colour
 
 ## Customization
 
-Most configuration can be done by passing in options to `Component.Graph()`.
+Most configuration can be done by passing in options to `()`.
 
 For example, here's what the default configuration looks like:
 
